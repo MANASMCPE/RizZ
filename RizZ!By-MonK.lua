@@ -1,6 +1,6 @@
 --// MONK RizZ YaY
---// Roblox Studio LocalScript
---// Place inside StarterPlayer > StarterPlayerScripts
+--// Fully Made By MonK
+--// Place inside Your Executor
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
